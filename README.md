@@ -6,7 +6,8 @@ In this Challenge I will be creating a schedule generator showing the date and t
 
 
 
-## Screenshot 
+## improvements
+working on this challenge has showed me what I still need to work on. I have made it to where the local storage is storing the key but doesn't have a specified value i'm assuming. I got the time zone to work but dont know how to make it to where if the hour has passed it changes colors. to further continue my improvements; local storage is not an easy topic when implementing the code to get the information inside the local storage to be placed inside my html and also save when i refresh the page. Coming to an understandment that I have to put in more hours in this topic becuase i wasn't able to do what was required.
 
 
 
@@ -16,3 +17,14 @@ https://www.bing.com/search?q=how+to+create+an+event+listener+in+javascript&qs=n
 
 https://api.jqueryui.com/datepicker/#method-setDate
 
+https://blog.logrocket.com/localstorage-javascript-complete-guide/
+
+https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/storage/localstorage
+
+https://day.js.org/docs/en/parse/now
+
+https://www.w3schools.com/jsref/prop_win_localstorage.asp
+
+https://api.jqueryui.com/datepicker/#utility-iso8601Week
+
+https://blog.logrocket.com/localstorage-javascript-complete-guide/#retrieving-data-with-getitem
